@@ -1,9 +1,10 @@
 - 👋 Hello, I’m Marzia-arghandiwal
 -  I from Kabul/Afghanistan 
 -  I’m student at Rana University 
--  in Computer science faculty 
--  I am very interested in my field of    computer science.
--  I am more interested in coding and     developing applications and            websites.
+-  in Computer science faculty
+-  During my studies I focused on         Programming language, Software         development and Database management
+-  I am interested in my field,           computer science.
+-  
   
 
 <!---
