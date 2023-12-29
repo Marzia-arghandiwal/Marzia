@@ -4,7 +4,7 @@
 -  in Computer science faculty
 -  During my studies I focused on         Programming language, Software         development and Database management
 -  I am interested in my field,           computer science.
--  
+  
   
 
 <!---
