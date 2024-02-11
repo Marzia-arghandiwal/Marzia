@@ -1,0 +1,54 @@
+
+You sent
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="text.css">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <div class="container">
+        <div>
+            <h3 class="team-home">TEAM1</h3>
+            <div id="home-score">
+                <div id="home_score_board">
+                    <h3 id="home_score_value">0</h3>
+                </div>
+                <div id="home_plus">
+                    <button class="inc-btn" id="home_1" onclick="plus_one(1)">+1</button>
+                    <button class="inc-btn" id="home_2" onclick="plus_two(1)">+2</button>
+                    <button class="inc-btn" id="home_3" onclick="plus_three(1)">+3</button>
+
+                </div>
+                
+            </div>
+        </div>
+
+        <div>
+            <h3 class="team-guest">TEAM2</h3>
+            <div id="guest-score">
+                <div id="guest_score_board">
+                    <h3 id="guest_score_value">0</h3>
+                </div>
+                <div id="guest_plus">
+                    <button class="inc-btn" id="guest_1" onclick="plus_one(2)">+1</button>
+                    <button class="inc-btn" id="guest_2" onclick="plus_two(2)">+2</button>
+                    <button class="inc-btn" id="guest_3" onclick="plus_three(2)">+3</button>
+
+                </div>
+            </div>
+            
+        </div>
+        <button id="new_game" onclick="start_again()">NEW GAME</button>
+    </div>
+
+
+    <script src="text.js"></script>
+    
+</body>
+</html>
